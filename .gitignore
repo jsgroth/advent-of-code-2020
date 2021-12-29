@@ -1,0 +1,5 @@
+/sample*.txt
+/input*.txt
+/out/
+/*.iml
+/.idea/
